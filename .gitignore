@@ -2,3 +2,8 @@
 assets/Video's/
 
 # Unused wallpapers (add individually when needed)
+assets/Wallpapers/*
+!assets/Wallpapers/thom-527.jpg
+
+# Per-machine Claude session state
+.claude/
